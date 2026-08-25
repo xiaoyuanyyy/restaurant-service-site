@@ -38,7 +38,7 @@ export function HeroSection() {
 
           <div className="mt-12 grid max-w-2xl grid-cols-3 border-y border-white/12 py-5 text-sm text-[#d9cfbf]">
             <div>
-              <strong className="block text-2xl text-[#fff7e8]">3</strong>
+              <strong className="block text-2xl text-[#fff7e8]">4</strong>
               Demo styles
             </div>
             <div>
