@@ -29,10 +29,10 @@ export function HeroSection() {
               View Demos
             </a>
             <a
-              href="#contact"
+              href="#pricing"
               className="rounded-sm border border-white/25 px-6 py-3 text-center font-semibold text-[#fff7e8] transition hover:border-[#c6a15b] hover:text-[#f5d28a]"
             >
-              Contact Me
+              View Pricing
             </a>
           </div>
 

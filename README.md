@@ -35,11 +35,11 @@ http://localhost:3000
 
 ## What To Change Later
 
-- Update service name and email in `src/data/service.ts`
+- Update service name in `src/data/service.ts`
 - Update pricing plans in `src/data/service.ts`
 - Replace demo card links and screenshot image URLs in `src/data/demos.ts`.
 - The integrated demo pages live inside the main site at `/demos/fine-dining`, `/demos/italian-bistro`, `/demos/cafe-brunch`, and `/demos/burger-shop`.
-- Connect the contact form in `src/components/ContactSection.tsx` to email, Airtable, or a CRM when ready
+- Add a real contact form or quote request link when an email/form service is ready
 - Add real demo links after the phase 2 restaurant templates are built
 
 ## Later Real Reservation Integration

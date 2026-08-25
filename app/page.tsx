@@ -1,4 +1,3 @@
-import { ContactSection } from "@/src/components/ContactSection";
 import { DemoSection } from "@/src/components/DemoSection";
 import { FAQSection } from "@/src/components/FAQSection";
 import { Footer } from "@/src/components/Footer";
@@ -22,7 +21,6 @@ export default function Home() {
       <ProcessSection />
       <PreviewProtectionSection />
       <FAQSection />
-      <ContactSection />
       <Footer />
     </main>
   );

@@ -2,7 +2,6 @@ import type { DemoSite, FAQItem, PricingPlan } from "@/src/types";
 
 export const service = {
   name: "SYY Studio",
-  email: "hello@lumisites.studio",
   heroTitle: "Modern Restaurant Websites for European Restaurants",
   heroSubtitle:
     "I help restaurants, cafes, and bistros present their menu, atmosphere, location, and reservation entry with a polished website that works beautifully on mobile.",

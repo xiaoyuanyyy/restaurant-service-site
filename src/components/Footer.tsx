@@ -9,9 +9,8 @@ export function Footer() {
           <p className="mt-1">Modern restaurant websites for European restaurants.</p>
         </div>
         <div className="flex flex-wrap gap-4">
-          <a href={`mailto:${service.email}`}>{service.email}</a>
-          <span>Instagram</span>
-          <span>LinkedIn</span>
+          <a href="#demos" className="transition hover:text-[#f5d28a]">Demo Websites</a>
+          <a href="#pricing" className="transition hover:text-[#f5d28a]">Pricing</a>
         </div>
         <p>Copyright 2026 {service.name}</p>
       </div>

@@ -28,10 +28,10 @@ export function Navbar() {
         </div>
 
         <a
-          href="#contact"
+          href="#pricing"
           className="rounded-sm border border-[#c6a15b] bg-[#c6a15b] px-4 py-2 text-sm font-semibold text-[#12100c] transition hover:bg-[#f1d48e]"
         >
-          Contact Me
+          View Pricing
         </a>
       </nav>
     </header>
