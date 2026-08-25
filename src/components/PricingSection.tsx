@@ -50,17 +50,6 @@ export function PricingSection() {
               <p className="mt-7 border-t border-white/10 pt-5 text-sm leading-6 text-[#d9cfbf]">
                 {plan.fit}
               </p>
-
-              <a
-                href="#demos"
-                className={`mt-6 inline-flex justify-center rounded-sm px-5 py-3 text-center font-semibold transition ${
-                  plan.highlighted
-                    ? "bg-[#c6a15b] text-[#12100c] hover:bg-[#f1d48e]"
-                    : "border border-white/15 text-[#fff7e8] hover:border-[#c6a15b] hover:text-[#f5d28a]"
-                }`}
-              >
-                {plan.cta}
-              </a>
             </article>
           ))}
         </div>

@@ -11,7 +11,6 @@ export type PricingPlan = {
   description: string;
   features: string[];
   fit: string;
-  cta: string;
   badge?: string;
   highlighted?: boolean;
 };

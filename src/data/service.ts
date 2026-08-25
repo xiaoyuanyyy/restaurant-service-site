@@ -65,7 +65,6 @@ export const pricingPlans: PricingPlan[] = [
       "1次修改",
     ],
     fit: "适合：已有客流，只需要一个干净线上门面的餐厅。",
-    cta: "快速上线基础主页",
   },
   {
     name: "高级转化网站",
@@ -83,7 +82,6 @@ export const pricingPlans: PricingPlan[] = [
       "3次修改",
     ],
     fit: "适合：希望让网站看起来更专业，并提升预约转化的餐厅。",
-    cta: "选择推荐方案",
   },
   {
     name: "每月维护",
@@ -97,7 +95,6 @@ export const pricingPlans: PricingPlan[] = [
       "基础网站检查",
     ],
     fit: "适合：上线后需要持续维护菜单、价格、营业时间和图片的餐厅。",
-    cta: "了解维护服务",
   },
 ];
 
