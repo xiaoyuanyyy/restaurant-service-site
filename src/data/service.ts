@@ -1,7 +1,7 @@
 import type { DemoSite, FAQItem, PricingPlan } from "@/src/types";
 
 export const service = {
-  name: "LumiSites Studio",
+  name: "SYY Studio",
   email: "hello@lumisites.studio",
   heroTitle: "Modern Restaurant Websites for European Restaurants",
   heroSubtitle:

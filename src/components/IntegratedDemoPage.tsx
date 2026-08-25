@@ -436,7 +436,7 @@ function BurgerIntegratedDemo({ demo }: { demo: IntegratedDemo }) {
       </footer>
 
       <div className="fixed bottom-4 right-4 z-50 max-w-[min(310px,calc(100%-28px))] border-[3px] border-[#15100c] bg-[#ffcf2e] px-4 py-2 text-xs font-extrabold uppercase text-[#15100c]">
-        Preview by My Restaurant Website Studio
+        Preview by SYY Studio
       </div>
     </main>
   );

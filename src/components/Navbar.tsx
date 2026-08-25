@@ -14,7 +14,7 @@ export function Navbar() {
       <nav className="section-shell flex min-h-20 items-center justify-between gap-6">
         <a href="#home" className="flex items-center gap-3">
           <span className="grid h-10 w-10 place-items-center rounded-sm border border-[#c6a15b]/60 bg-[#c6a15b]/10 text-sm font-bold text-[#f7dca6]">
-            LS
+            SYY
           </span>
           <span className="text-lg font-semibold text-[#fff7e8]">{service.name}</span>
         </a>
